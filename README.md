@@ -1,6 +1,6 @@
 # glsim
 
-Source code for the NeurIPS 2025 paper: "[GLSim: Detecting Object Hallucinations in LVLMs via Global-Local Embedding Similarity](https://arxiv.org/abs/2508.19972)" by Seongheon Park and Yixuan Li.
+Source code for the NeurIPS 2025 paper: "[GLSim: Detecting Object Hallucinations in LVLMs via Global-Local Embedding Similarity](https://arxiv.org/abs/2508.19972)" by Seongheon Park and Sharon Li.
 
 
 ## Setup and Installation
